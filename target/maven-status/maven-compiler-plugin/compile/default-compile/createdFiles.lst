@@ -1,0 +1,8 @@
+api\models\Support.class
+api\models\UserRegisterResponse.class
+api\models\User.class
+api\steps\ReqresSteps.class
+api\models\UserDate.class
+api\models\UserRegister.class
+api\steps\SpecHelper.class
+api\models\FindUser.class
